@@ -1,5 +1,5 @@
 
-function MayusMinus(texto) {
+function MayusMinus(texto){
 
 	let mayusculas = 0;
 	let minusculas = 0;
