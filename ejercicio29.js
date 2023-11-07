@@ -14,10 +14,8 @@ function capi(numero){
 
 console.log(capi(2005));
 
-
 //dado un numero indicar si es un numero capicua o no.
 // los numeros capicua se leen igual de izwuierda a derecha i viceversa
-
 
 function capi(numero){
 	const numeroString = numero.toString();

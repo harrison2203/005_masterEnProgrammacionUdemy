@@ -1,5 +1,5 @@
 
-function fibonnaci(numero){
+function fibonnaci (numero) {
 
 	let serie = [0, 1];
 
